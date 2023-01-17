@@ -1,0 +1,22 @@
+#gameField {
+    background-color: rgb(255, 255, 0);
+    border: 1px silver solid;
+
+}
+
+#infoTable {
+    background-color: yellow;
+    border: 1px silver solid;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    font-weight: 700;
+    font-size: medium;
+}
+
+#container {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding-top: 50px;
+}
